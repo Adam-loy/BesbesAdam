@@ -170,7 +170,13 @@
       {% endif %}
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
-      {% endif %}      
+      {% endif %}
+      {% if author.substack %}
+        <li><a href="{{ author.substack }}"><i class="fas fa-fw fa-newspaper icon-pad-right" aria-hidden="true"></i>Substack</a></li>
+      {% endif %}
+      {% if author.fluffychat %}
+        <li><a href="{{ author.fluffychat }}"><i class="fas fa-fw fa-comment-dots icon-pad-right" aria-hidden="true"></i>FluffyChat</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>

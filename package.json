@@ -1,10 +1,10 @@
 {
-  "name": "academic-pages",
+  "name": "BesbesAdam",
   "version": "0.8.1.1",
-  "description": "Academic Pages Mistakes Jekyll theme npm build scripts",
+  "description": "Besbes Adam Portfolio",
   "repository": {
     "type": "git",
-    "url": "https://github.com/academicpages/academicpages.github.io"
+    "url": "https://github.com/Adam-loy/BesbesAdam"
   },
   "keywords": [
     "jekyll",
@@ -15,11 +15,7 @@
     "Michael Rose",
     "Robert Zupko"
   ],
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/academicpages/academicpages.github.io/issues"
-  },
-  "homepage": "https://github.com/academicpages/academicpages.github.io",
+  "homepage": "https://github.com/Adam-loy/BesbesAdam",
   "engines": {
     "node": ">= 0.10.0"
   },
