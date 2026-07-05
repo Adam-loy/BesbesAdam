@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
 I am Besbes Adam, a graduate student in Tunisia and an aspiring software engineering researcher.
 
 This site collects my academic portfolio, research activity, publications, projects, talks, and related writing.

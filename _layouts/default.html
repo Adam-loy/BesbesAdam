@@ -9,6 +9,20 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <link rel="manifest" href="{{ '/images/manifest.json' | relative_url }}">
+    <meta name="theme-color" content="#222222">
+    <link rel="apple-touch-icon" href="{{ '/images/favicon-32x32.png' | relative_url }}">
+
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register("{{ '/ServiceWorker.js' | relative_url }}")
+            .then((registration) => {
+              
+            })
+        })
+      }
+      </script>
   </head>
 
   <body>

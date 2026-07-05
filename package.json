@@ -11,11 +11,7 @@
     "theme",
     "minimal"
   ],
-  "contributors": [
-    "Michael Rose",
-    "Robert Zupko"
-  ],
-  "homepage": "https://github.com/Adam-loy/BesbesAdam",
+  "homepage": "https://adam-loy.github.io/BesbesAdam",
   "engines": {
     "node": ">= 0.10.0"
   },
