@@ -47,7 +47,14 @@ Languages
 * English
 * French
 
+Taking Flight Despite Hard Times
+======
+Despite everything, I believe I can do more. Much of my work begins with learning, researching, and gathering information. But when I find a practical way to try an idea, I do it. I put what I can into making things real: buying materials, contributing to projects, running simulations, and searching for affordable equipment. As technology advances, my budget struggles to keep up—but I still love building and finding ways to make things work.<br>
+I know people are facing war and suffering beyond words, and fighting for their lives. I don’t compare my challenges to theirs. Still, I have a dream, and pursuing it can feel difficult when my country’s technology and opportunities seem stuck in someone else’s past. There are talented people here who don’t get the chance to show what they can do, because opportunities can depend on social and family connections—or inherited privilege—instead of ability.<br>
 
+*If you can help me get my dreams off the ground, I would be grateful. That could mean supporting my work, sharing advice, or helping me find practical ways forward. Even a little support could help me take flight.*
+
+> **“Hard times create strong men. Strong men create good times. Good times create weak men. Weak men create hard times.”**
 <!--
 Publications
 ======
